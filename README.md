@@ -1,0 +1,2 @@
+# strings
+learning strinds
